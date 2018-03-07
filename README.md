@@ -21,6 +21,6 @@ nvrslp would set your computer to never sleep even you are idle
 
 change display mode to single
 
-**4. extend.bat**
+**6. extend.bat**
 
 change display mode to extend
